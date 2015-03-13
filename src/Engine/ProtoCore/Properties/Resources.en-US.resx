@@ -322,7 +322,7 @@
     <value>Internal error, please report: Method resolution failure on: {0}() - (8bc0db87).</value>
   </data>
   <data name="kMethodResolutionFailureForOperator" xml:space="preserve">
-    <value>>A '{1}' can't be '{0}'ed with a '{2}'.</value>
+    <value>A '{1}' can't be '{0}'ed with a '{2}'.</value>
   </data>
   <data name="kMethodResolutionFailureWithTypes" xml:space="preserve">
     <value>One or more of the input types are not matching. Couldn't find a version of {0} that takes arguments of type {1}.</value>
